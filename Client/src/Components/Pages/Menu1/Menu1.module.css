@@ -1,0 +1,58 @@
+header{
+    height: 11vh;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.profil{
+    display: flex;
+    justify-content: space-between;
+}
+.profil__nom{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.article__logo{
+    background-color: magenta;
+}
+.logo{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.bnt__demandeConsultation{
+    margin-left: 43%;
+    margin-top: 20px;
+    width: 220px;
+    height: 60px;
+    cursor: pointer;
+}
+.div1{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 50px;
+}
+.info{
+    margin-left: 34%;
+    font-size: 35px;
+}
+.btn__modifier{
+    margin-left: 40%;
+    margin-top: 20px;
+    width: 220px;
+    height: 60px;
+    cursor: pointer;
+}
+.div2{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 50px;
+}
+.carnet{
+    margin-left: 45%;
+    font-size: 35px;
+}

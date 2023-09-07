@@ -1,0 +1,68 @@
+header{
+    height: 11vh;
+    width: 100%;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.profil{
+    display: flex;
+    justify-content: space-between;
+}
+.profil__nom{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.article__logo{
+    background-color: magenta;
+}
+.logo{
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+.bnt__Information{
+    margin-left: 43%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 60px;
+    cursor: pointer;
+}
+.list_hopital{
+    margin-left: 44.5%;
+}
+.hopital1{
+    width: 900px;
+    height: 50px;
+    background-color: magenta;
+    margin: 15px;
+}
+.hopital2{
+    width: 900px;
+    height: 50px;
+    margin: 15px;
+    background-color: rgb(255, 119, 0);
+}
+.hopital3{
+    width: 900px;
+    height: 50px;
+    margin: 15px;
+    background-color: rgb(108, 105, 103);
+}
+.hopital4{
+    width: 900px;
+    height: 50px;
+    margin: 15px;
+    background-color: rgb(60, 0, 255);
+}
+.hopital5{
+    width: 900px;
+    height: 50px;
+    margin: 15px;
+    background-color: rgb(0, 255, 38);
+}
+h3{
+    margin-left: 19%;
+}
